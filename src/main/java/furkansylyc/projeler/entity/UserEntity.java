@@ -1,4 +1,4 @@
-package dev.onursevinc.projeler.entity;
+package furkansylyc.projeler.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

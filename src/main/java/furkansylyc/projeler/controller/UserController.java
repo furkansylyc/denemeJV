@@ -1,7 +1,7 @@
-package dev.onursevinc.projeler.controller;
+package furkansylyc.projeler.controller;
 
-import dev.onursevinc.projeler.entity.UserEntity;
-import dev.onursevinc.projeler.service.UserService;
+import furkansylyc.projeler.entity.UserEntity;
+import furkansylyc.projeler.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

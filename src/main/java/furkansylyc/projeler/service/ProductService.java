@@ -1,15 +1,11 @@
-package dev.onursevinc.projeler.service;
+package furkansylyc.projeler.service;
 
-import dev.onursevinc.projeler.entity.ProductEntity;
-import dev.onursevinc.projeler.repository.ProductRepository;
-import jakarta.persistence.metamodel.SingularAttribute;
+import furkansylyc.projeler.entity.ProductEntity;
+import furkansylyc.projeler.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.jpa.domain.AbstractPersistable;
 import org.springframework.stereotype.Service;
 
-import java.io.Serializable;
 import java.util.List;
-import java.util.Optional;
 
 @Service
 @RequiredArgsConstructor

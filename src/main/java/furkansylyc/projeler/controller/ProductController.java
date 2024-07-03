@@ -1,15 +1,12 @@
-package dev.onursevinc.projeler.controller;
+package furkansylyc.projeler.controller;
 
-import dev.onursevinc.projeler.entity.ProductEntity;
-import dev.onursevinc.projeler.entity.UserEntity;
-import dev.onursevinc.projeler.service.ProductService;
+import furkansylyc.projeler.entity.ProductEntity;
+import furkansylyc.projeler.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Map;
-
-import static org.springframework.data.jpa.domain.AbstractPersistable_.id;
 
 @RestController
 @RequestMapping("/api/v1/product")

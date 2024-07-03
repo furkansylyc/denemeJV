@@ -1,6 +1,6 @@
-package dev.onursevinc.projeler.repository;
+package furkansylyc.projeler.repository;
 
-import dev.onursevinc.projeler.entity.UserEntity;
+import furkansylyc.projeler.entity.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

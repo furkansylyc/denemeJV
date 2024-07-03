@@ -1,4 +1,4 @@
-package dev.onursevinc.projeler;
+package furkansylyc.projeler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

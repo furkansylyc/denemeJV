@@ -1,7 +1,7 @@
-package dev.onursevinc.projeler.service;
+package furkansylyc.projeler.service;
 
-import dev.onursevinc.projeler.entity.UserEntity;
-import dev.onursevinc.projeler.repository.UserRepository;
+import furkansylyc.projeler.entity.UserEntity;
+import furkansylyc.projeler.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
